@@ -1,0 +1,3 @@
+C:/Users/dieha/CLionProjects/avarage_of_ints/cmake-build-debug/CMakeFiles/avarage_of_ints.dir
+C:/Users/dieha/CLionProjects/avarage_of_ints/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dieha/CLionProjects/avarage_of_ints/cmake-build-debug/CMakeFiles/rebuild_cache.dir
