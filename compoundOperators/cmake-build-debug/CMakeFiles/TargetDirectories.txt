@@ -1,0 +1,3 @@
+C:/Users/dieha/CLionProjects/compoundOperators/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/dieha/CLionProjects/compoundOperators/cmake-build-debug/CMakeFiles/compoundOperators.dir
+C:/Users/dieha/CLionProjects/compoundOperators/cmake-build-debug/CMakeFiles/edit_cache.dir

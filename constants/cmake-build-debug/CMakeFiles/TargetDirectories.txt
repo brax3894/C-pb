@@ -1,0 +1,3 @@
+C:/Users/dieha/CLionProjects/constants/cmake-build-debug/CMakeFiles/constants.dir
+C:/Users/dieha/CLionProjects/constants/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dieha/CLionProjects/constants/cmake-build-debug/CMakeFiles/rebuild_cache.dir
