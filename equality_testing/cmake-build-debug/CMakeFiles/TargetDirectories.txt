@@ -1,0 +1,3 @@
+C:/Users/dieha/CLionProjects/equality_testing/cmake-build-debug/CMakeFiles/equality_testing.dir
+C:/Users/dieha/CLionProjects/equality_testing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dieha/CLionProjects/equality_testing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
