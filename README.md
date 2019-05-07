@@ -1,0 +1,2 @@
+# Cpp_practical_textbook
+This is just a folder of all my c++ understanding so far. the name practical textbook is probably a tad misleading, as it is my work and my understanding as I work through my course. I try to keep this code relatively commented to keep key points and concept notes side by side. I think the goal over all here is to build not only a core understanding of the language and my own reference handbook, by uploading it here marks a digital imprint of progressing knowledge. 
