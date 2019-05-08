@@ -1,0 +1,3 @@
+C:/Users/dieha/CLionProjects/course_challenges/cmake-build-debug/CMakeFiles/course_challenges.dir
+C:/Users/dieha/CLionProjects/course_challenges/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dieha/CLionProjects/course_challenges/cmake-build-debug/CMakeFiles/rebuild_cache.dir
