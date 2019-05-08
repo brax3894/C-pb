@@ -1,0 +1,3 @@
+C:/Users/dieha/CLionProjects/shipping_more_nested_ifs/cmake-build-debug/CMakeFiles/shipping_more_nested_ifs.dir
+C:/Users/dieha/CLionProjects/shipping_more_nested_ifs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dieha/CLionProjects/shipping_more_nested_ifs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
