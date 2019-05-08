@@ -1,0 +1,3 @@
+C:/Users/dieha/CLionProjects/switch_case/cmake-build-debug/CMakeFiles/switch_case.dir
+C:/Users/dieha/CLionProjects/switch_case/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dieha/CLionProjects/switch_case/cmake-build-debug/CMakeFiles/rebuild_cache.dir
