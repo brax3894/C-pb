@@ -1,0 +1,3 @@
+C:/Users/dieha/CLionProjects/conditional_quistionMARK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/dieha/CLionProjects/conditional_quistionMARK/cmake-build-debug/CMakeFiles/conditional_quistionMARK.dir
+C:/Users/dieha/CLionProjects/conditional_quistionMARK/cmake-build-debug/CMakeFiles/edit_cache.dir
