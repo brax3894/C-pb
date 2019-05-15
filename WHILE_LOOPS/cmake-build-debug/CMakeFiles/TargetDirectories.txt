@@ -1,0 +1,3 @@
+C:/Users/dieha/CLionProjects/WHILE_LOOPS/cmake-build-debug/CMakeFiles/WHILE_LOOPS.dir
+C:/Users/dieha/CLionProjects/WHILE_LOOPS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dieha/CLionProjects/WHILE_LOOPS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
