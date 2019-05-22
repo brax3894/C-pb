@@ -1,0 +1,3 @@
+C:/Users/dieha/CLionProjects/define_functions_Area_Volume/cmake-build-debug/CMakeFiles/define_functions_Area_Volume.dir
+C:/Users/dieha/CLionProjects/define_functions_Area_Volume/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dieha/CLionProjects/define_functions_Area_Volume/cmake-build-debug/CMakeFiles/rebuild_cache.dir
