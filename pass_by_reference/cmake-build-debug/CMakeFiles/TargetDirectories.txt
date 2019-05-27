@@ -1,0 +1,3 @@
+C:/Users/dieha/CLionProjects/pass_by_reference/cmake-build-debug/CMakeFiles/pass_by_reference.dir
+C:/Users/dieha/CLionProjects/pass_by_reference/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dieha/CLionProjects/pass_by_reference/cmake-build-debug/CMakeFiles/rebuild_cache.dir
