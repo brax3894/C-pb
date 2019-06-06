@@ -1,0 +1,3 @@
+C:/Users/dieha/CLionProjects/returning_pointer_from_function/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/dieha/CLionProjects/returning_pointer_from_function/cmake-build-debug/CMakeFiles/returning_pointer_from_function.dir
+C:/Users/dieha/CLionProjects/returning_pointer_from_function/cmake-build-debug/CMakeFiles/edit_cache.dir

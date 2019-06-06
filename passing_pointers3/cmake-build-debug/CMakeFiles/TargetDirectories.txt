@@ -1,0 +1,3 @@
+C:/Users/dieha/CLionProjects/passing_pointers3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dieha/CLionProjects/passing_pointers3/cmake-build-debug/CMakeFiles/passing_pointers3.dir
+C:/Users/dieha/CLionProjects/passing_pointers3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
